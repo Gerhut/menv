@@ -1,0 +1,14 @@
+[package]
+name = "menv"
+version = "0.1.0"
+authors = ["George Cheng <Gerhut@GMail.com>"]
+edition = "2018"
+description = "Render mustache templates with environment variables."
+repository = "https://github.com/Gerhut/menv.git"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+clap = "2.32.0"
+dotenv = "0.13.0"
+mustache = "0.9.0"
