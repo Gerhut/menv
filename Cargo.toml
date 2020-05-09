@@ -10,5 +10,5 @@ license = "MIT"
 
 [dependencies]
 clap = "2.32.0"
-dotenv = "0.13.0"
+dotenv = "0.15.0"
 mustache = "0.9.0"
